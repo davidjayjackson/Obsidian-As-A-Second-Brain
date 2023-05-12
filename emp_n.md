@@ -1,0 +1,1 @@
+Percent of civilians employed in natural resources, construction, and maintenance occupations aged 16 years old and older in the county.

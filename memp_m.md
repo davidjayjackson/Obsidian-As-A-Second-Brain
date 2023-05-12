@@ -1,0 +1,1 @@
+"Percent of male civilians employed in management, business, science, and arts occupations aged 16 years old or older in the county."
